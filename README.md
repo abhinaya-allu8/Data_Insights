@@ -1,4 +1,4 @@
-# 🚀 Spark Insights
+# 🚀 Data Insights
 
 **Autonomous AI Data Scientist Assistant - Complete EDA, Visualization & ML Pipeline**
 
