@@ -6,7 +6,7 @@
 
 ## Overview
 
-Spark Insights is an autonomous AI-powered data scientist that performs comprehensive Exploratory Data Analysis (EDA), generates intelligent visualizations, builds machine learning models, and creates professional PowerPoint presentations automatically. Built with SmolagentsAI framework and powered by OpenAI's advanced language models.
+Data Insights is an autonomous AI-powered data scientist that performs comprehensive Exploratory Data Analysis (EDA), generates intelligent visualizations, builds machine learning models, and creates professional PowerPoint presentations automatically. Built with SmolagentsAI framework and powered by OpenAI's advanced language models.
 
 ## Key Features
 
