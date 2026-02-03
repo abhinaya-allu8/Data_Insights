@@ -19,8 +19,8 @@ Data Insights is an autonomous AI-powered data scientist that performs comprehen
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-repo/spark-insights.git
-cd spark-insights
+git clone https://github.com/your-repo/data-insights.git
+cd data-insights
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
